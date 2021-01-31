@@ -14,7 +14,7 @@
 
 ### Day 2: January 31, 2021
 
-**Today's Progress**: Finished the Applied Accessibility course at @freeCodeCamp today.
+**Today's Progress**: Finished the Applied Accessibility and Responsive Web Design Pronciples course at @freeCodeCamp today.
 
 **Thoughts:** ok, semantic code is sexy.
 
