@@ -18,3 +18,11 @@
 
 **Thoughts:** ok, semantic code is sexy.
 
+### Day 3: February 1, 2021
+
+**Today's Progress**: Finished the CSS Flex and CSS Grid courses at @freeCodeCamp today. Submitted the tribute page project to the challenge
+
+**Thoughts:** ok, semantic code is sexy.
+
+**Link to work:** [Tribute Page](https://codepen.io/avazibra/full/eYBNOby)
+
